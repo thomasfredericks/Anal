@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 603.0, 133.0, 403.0, 560.0 ],
+		"rect" : [ 608.0, 135.0, 403.0, 560.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -236,7 +236,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 840.0, 305.0, 69.0, 20.0 ],
-					"save" : [ "#N", "thispatcher", ";", "#Q", "window", "flags", "nogrow", "close", "nozoom", "nofloat", "nomenu", "minimize", ";", "#Q", "window", "constrain", 395, 555, 395, 555, ";", "#Q", "window", "size", 603, 133, 1006, 693, ";", "#Q", "window", "title", ";", "#Q", "window", "exec", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
+					"save" : [ "#N", "thispatcher", ";", "#Q", "window", "flags", "nogrow", "close", "nozoom", "nofloat", "nomenu", "minimize", ";", "#Q", "window", "constrain", 395, 555, 395, 555, ";", "#Q", "window", "size", 608, 135, 1011, 695, ";", "#Q", "window", "title", ";", "#Q", "window", "exec", ";", "#Q", "savewindow", 1, ";", "#Q", "end", ";" ],
 					"text" : "thispatcher"
 				}
 
@@ -308,34 +308,34 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-6::obj-11::obj-5" : [ "Stereo", "Stereo", 0 ],
-			"obj-6::obj-43::obj-33::obj-5" : [ "Stereo[1]", "Stereo", 0 ]
+			"obj-6::obj-43::obj-33::obj-5" : [ "Stereo[1]", "Stereo", 0 ],
+			"obj-6::obj-11::obj-5" : [ "Stereo", "Stereo", 0 ]
 		}
 ,
 		"dependency_cache" : [ 			{
 				"name" : "_anal~.maxpat",
-				"bootpath" : "/Users/thoma_000/Desktop/wip/anal~/release",
+				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "inputselector.maxpat",
-				"bootpath" : "/Users/thoma_000/Desktop/wip/anal~/release",
+				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "tof.strippath.maxpat",
-				"bootpath" : "/Users/thoma_000/Desktop/wip/anal~/release",
+				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "outputselector~.maxpat",
-				"bootpath" : "/Users/thoma_000/Desktop/wip/anal~/release",
+				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

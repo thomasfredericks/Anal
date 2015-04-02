@@ -1,5 +1,5 @@
 # Anal~
-An application that sends through OSC the analysis of an audio input. Made with Cyling '74's Max.
+An application that analyzes and audio input and that outputs OSC packets. Made with Cyling '74's Max.
 
 ## Build requirements
 

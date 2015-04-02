@@ -1,13 +1,9 @@
 # Anal~
 An application that analyzes an audio input and that outputs OSC packets. Made with Cyling '74's Max.
 
-## Build requirements
-
-Requires segment~ and analyzer~ by Tristan Jehan (http://web.media.mit.edu/~tristan/maxmsp.html). A copy of the externals are included in the repository.
-
 ## Build
 
-The main patcher is "_anal~.maxpat", but the main window is "anal~.maxpat". Do not forget to include "fftw3.dll" for a windows build.
+Requires segment~ and analyzer~ by Tristan Jehan (http://web.media.mit.edu/~tristan/maxmsp.html). A copy of the externals are included in the repository.The main patcher is "_anal~.maxpat", but the main window is "anal~.maxpat". Do not forget to include "fftw3.dll" for a windows build.
 
 ## OSC output
 

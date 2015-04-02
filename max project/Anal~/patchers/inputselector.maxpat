@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 787.0, 246.0, 981.0, 760.0 ],
+		"rect" : [ 742.0, 125.0, 399.0, 109.0 ],
 		"bgcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -332,7 +332,6 @@
 , 			{
 				"box" : 				{
 					"embed" : 1,
-					"hidden" : 1,
 					"id" : "obj-33",
 					"maxclass" : "bpatcher",
 					"numinlets" : 1,
@@ -347,7 +346,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ -1528.0, 112.0, 398.0, 82.0 ],
+						"rect" : [ 742.0, 147.0, 398.0, 82.0 ],
 						"bgcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,
@@ -722,6 +721,7 @@
 , 			{
 				"box" : 				{
 					"embed" : 1,
+					"hidden" : 1,
 					"id" : "obj-31",
 					"maxclass" : "bpatcher",
 					"numinlets" : 1,
@@ -736,7 +736,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ -1528.0, 112.0, 398.0, 82.0 ],
+						"rect" : [ 742.0, 147.0, 398.0, 82.0 ],
 						"bgcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,

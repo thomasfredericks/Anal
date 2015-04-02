@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 410.0, 164.0, 1011.0, 625.0 ],
+		"rect" : [ 742.0, 125.0, 395.0, 555.0 ],
 		"bgcolor" : [ 1.0, 1.0, 1.0, 0.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
@@ -79,7 +79,7 @@
 					"patching_rect" : [ 709.5, 163.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 134.25, 40.5, 20.0 ],
-					"text" : "-37"
+					"text" : "-35"
 				}
 
 			}
@@ -513,7 +513,7 @@
 					"patching_rect" : [ 813.0, 529.5, 32.0, 16.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 287.5, 441.0, 49.0, 16.0 ],
-					"text" : "5375",
+					"text" : "4680",
 					"textjustification" : 1
 				}
 
@@ -545,7 +545,7 @@
 					"patching_rect" : [ 730.0, 535.0, 32.0, 16.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 95.5, 479.0, 29.0, 16.0 ],
-					"text" : "0.58",
+					"text" : "0.56",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"textjustification" : 1
 				}
@@ -619,7 +619,7 @@
 					"patching_rect" : [ 1446.5, 717.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 2.0, 349.75, 111.0, 20.0 ],
-					"text" : "50 61"
+					"text" : "88 44"
 				}
 
 			}
@@ -970,7 +970,7 @@
 					"patching_rect" : [ 754.0, 400.0, 100.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 277.75, 223.0, 42.0 ],
-					"text" : "194.02"
+					"text" : "199.68"
 				}
 
 			}
@@ -2047,45 +2047,6 @@
 					"source" : [ "obj-87", 0 ]
 				}
 
-			}
- ],
-		"parameters" : 		{
-			"obj-43::obj-33::obj-5" : [ "Stereo[1]", "Stereo", 0 ],
-			"obj-11::obj-5" : [ "Stereo", "Stereo", 0 ]
-		}
-,
-		"dependency_cache" : [ 			{
-				"name" : "inputselector.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "tof.strippath.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "outputselector~.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
-				"patcherrelativepath" : ".",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "segment~.mxe",
-				"type" : "iLaF"
-			}
-, 			{
-				"name" : "analyzer~.mxe",
-				"type" : "iLaF"
-			}
-, 			{
-				"name" : "jit.pass.mxe",
-				"type" : "iLaF"
 			}
  ]
 	}

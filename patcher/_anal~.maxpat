@@ -79,7 +79,7 @@
 					"patching_rect" : [ 709.5, 163.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 134.25, 40.5, 20.0 ],
-					"text" : "-36"
+					"text" : "-37"
 				}
 
 			}
@@ -513,7 +513,7 @@
 					"patching_rect" : [ 813.0, 529.5, 32.0, 16.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 287.5, 441.0, 49.0, 16.0 ],
-					"text" : "4053",
+					"text" : "5375",
 					"textjustification" : 1
 				}
 
@@ -545,7 +545,7 @@
 					"patching_rect" : [ 730.0, 535.0, 32.0, 16.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 95.5, 479.0, 29.0, 16.0 ],
-					"text" : "0.53",
+					"text" : "0.58",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"textjustification" : 1
 				}
@@ -602,8 +602,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1423.0, 681.0, 101.0, 20.0 ],
-					"text" : "prepend set note"
+					"patching_rect" : [ 1446.5, 680.0, 74.0, 20.0 ],
+					"text" : "prepend set"
 				}
 
 			}
@@ -616,10 +616,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1423.0, 718.0, 150.0, 20.0 ],
+					"patching_rect" : [ 1446.5, 717.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 2.0, 349.75, 111.0, 20.0 ],
-					"text" : "note 49 42"
+					"text" : "50 61"
 				}
 
 			}
@@ -950,7 +950,7 @@
 					"patching_rect" : [ 988.5, 496.0, 150.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 325.75, 220.0, 20.0 ],
-					"text" : "MIDI",
+					"text" : "Note",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -970,7 +970,7 @@
 					"patching_rect" : [ 754.0, 400.0, 100.0, 20.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 277.75, 223.0, 42.0 ],
-					"text" : "180.03"
+					"text" : "194.02"
 				}
 
 			}
@@ -983,8 +983,8 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1310.0, 888.0, 83.0, 20.0 ],
-					"text" : "prepend /midi"
+					"patching_rect" : [ 1310.0, 888.0, 85.0, 20.0 ],
+					"text" : "prepend /note"
 				}
 
 			}
@@ -2047,6 +2047,45 @@
 					"source" : [ "obj-87", 0 ]
 				}
 
+			}
+ ],
+		"parameters" : 		{
+			"obj-43::obj-33::obj-5" : [ "Stereo[1]", "Stereo", 0 ],
+			"obj-11::obj-5" : [ "Stereo", "Stereo", 0 ]
+		}
+,
+		"dependency_cache" : [ 			{
+				"name" : "inputselector.maxpat",
+				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "tof.strippath.maxpat",
+				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "outputselector~.maxpat",
+				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/patcher",
+				"patcherrelativepath" : ".",
+				"type" : "JSON",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "segment~.mxe",
+				"type" : "iLaF"
+			}
+, 			{
+				"name" : "analyzer~.mxe",
+				"type" : "iLaF"
+			}
+, 			{
+				"name" : "jit.pass.mxe",
+				"type" : "iLaF"
 			}
  ]
 	}

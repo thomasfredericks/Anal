@@ -7,7 +7,7 @@ Requires segment~ and analyzer~ by Tristan Jehan (http://web.media.mit.edu/~tris
 
 ## Build
 
-The main patcher is "_anal~.maxpat", but the main window is "anal~.maxpat".
+The main patcher is "_anal~.maxpat", but the main window is "anal~.maxpat". Do not forget to include "fftw3.dll" for a windows build.
 
 ## OSC output
 

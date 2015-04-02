@@ -11,7 +11,7 @@ The main patcher is "_anal~.maxpat", but the main window is "anal~.maxpat".
 
 ## OSC output
 
-* /fft 25xfloat : the fft analysis of the audio input in the range of -96 to 30.
+* ```/fft 25xfloat``` : the fft analysis of the audio input in the range of -96 to 30.
 * /level float : the level of the signal in the range of -120 to 30.
 * /segment float : onset detected with its loudness variation curve.
 * /brightness float : brightness estimator (spectral centroid measure) in the range of 0 to 22000.

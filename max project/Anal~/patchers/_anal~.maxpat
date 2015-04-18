@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 9,
+			"revision" : 7,
 			"architecture" : "x86"
 		}
 ,
@@ -97,7 +97,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 9,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -1073,7 +1073,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 9,
+							"revision" : 7,
 							"architecture" : "x86"
 						}
 ,
@@ -1862,7 +1862,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 738.0, 570.0, 117.0, 20.0 ],
+					"patching_rect" : [ 663.5, 636.0, 117.0, 20.0 ],
 					"text" : "prepend /brightness"
 				}
 
@@ -2055,9 +2055,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1678.0, 352.0, 420.0, 48.0 ],
+					"patching_rect" : [ 1678.0, 352.0, 420.0, 47.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 229.5, 129.25, 164.0, 48.0 ],
+					"presentation_rect" : [ 229.5, 129.25, 164.0, 47.0 ],
 					"text" : "ANAL~",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"textjustification" : 1
@@ -2088,9 +2088,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1100.0, 480.0, 32.0, 16.0 ],
+					"patching_rect" : [ 1100.0, 480.0, 32.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 287.5, 441.0, 49.0, 16.0 ],
+					"presentation_rect" : [ 287.5, 441.0, 49.0, 15.0 ],
 					"text" : "0.73",
 					"textjustification" : 1
 				}
@@ -2120,9 +2120,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 197.5, 375.0, 32.0, 16.0 ],
+					"patching_rect" : [ 197.5, 375.0, 32.0, 15.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 95.5, 479.0, 29.0, 16.0 ],
+					"presentation_rect" : [ 95.5, 479.0, 29.0, 15.0 ],
 					"text" : "0.46",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"textjustification" : 1
@@ -2281,9 +2281,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1106.0, 939.0, 39.0, 17.0 ],
+					"patching_rect" : [ 1106.0, 939.0, 39.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 374.0, 391.75, 23.0, 17.0 ],
+					"presentation_rect" : [ 374.0, 391.75, 23.0, 18.0 ],
 					"text" : "22",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
@@ -2298,9 +2298,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1051.0, 939.0, 34.0, 17.0 ],
+					"patching_rect" : [ 1051.0, 939.0, 36.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 323.5, 391.75, 41.0, 17.0 ],
+					"presentation_rect" : [ 323.5, 391.75, 41.0, 18.0 ],
 					"text" : "3 KHz",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
@@ -2316,9 +2316,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 957.0, 939.0, 25.0, 27.0 ],
+					"patching_rect" : [ 957.0, 939.0, 25.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 229.5, 391.75, 37.0, 17.0 ],
+					"presentation_rect" : [ 229.5, 391.75, 37.0, 18.0 ],
 					"text" : "0 Hz",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
@@ -2334,9 +2334,9 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1004.0, 939.0, 32.0, 27.0 ],
+					"patching_rect" : [ 1004.0, 939.0, 32.0, 29.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 276.5, 391.75, 47.0, 17.0 ],
+					"presentation_rect" : [ 276.5, 391.75, 47.0, 18.0 ],
 					"text" : "1 KHz",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
@@ -2442,10 +2442,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 69.5, 411.0, 279.0, 38.0 ],
+					"patching_rect" : [ 69.5, 411.0, 279.0, 40.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 3,
-					"presentation_rect" : [ 229.5, 181.25, 164.0, 38.0 ],
+					"presentation_rect" : [ 229.5, 181.25, 164.0, 40.0 ],
 					"text" : "By Thomas O Fredericks.\nBased on fiddle~ by Miller Puckette and analyzer~ by Tristan Jehan.",
 					"textjustification" : 1
 				}
@@ -2480,7 +2480,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1427.0, 480.0, 113.0, 15.0 ],
+					"patching_rect" : [ 1427.0, 480.0, 113.0, 16.0 ],
 					"text" : "443.954987 0.004032"
 				}
 
@@ -2494,7 +2494,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1427.0, 460.0, 60.0, 17.0 ],
+					"patching_rect" : [ 1427.0, 460.0, 62.0, 18.0 ],
 					"text" : "prepend set"
 				}
 
@@ -2508,7 +2508,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1364.0, 480.0, 114.0, 15.0 ],
+					"patching_rect" : [ 1364.0, 480.0, 114.0, 16.0 ],
 					"text" : "327.606323 0.005886"
 				}
 
@@ -2522,7 +2522,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1364.0, 460.0, 60.0, 17.0 ],
+					"patching_rect" : [ 1364.0, 460.0, 62.0, 18.0 ],
 					"text" : "prepend set"
 				}
 
@@ -2536,7 +2536,7 @@
 					"numinlets" : 4,
 					"numoutlets" : 4,
 					"outlettype" : [ "", "", "", "" ],
-					"patching_rect" : [ 1348.0, 431.0, 59.0, 17.0 ],
+					"patching_rect" : [ 1348.0, 431.0, 59.0, 18.0 ],
 					"text" : "route 1 2 3"
 				}
 
@@ -2550,7 +2550,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1301.0, 480.0, 108.0, 15.0 ],
+					"patching_rect" : [ 1301.0, 480.0, 114.0, 16.0 ],
 					"text" : "157.212769 0.001124"
 				}
 
@@ -2564,7 +2564,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1301.0, 460.0, 60.0, 17.0 ],
+					"patching_rect" : [ 1301.0, 460.0, 62.0, 18.0 ],
 					"text" : "prepend set"
 				}
 
@@ -2579,7 +2579,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 8,
 					"outlettype" : [ "list", "float", "float", "float", "list", "bang", "list", "list" ],
-					"patching_rect" : [ 960.0, 337.0, 212.0, 17.0 ],
+					"patching_rect" : [ 960.0, 337.0, 240.0, 18.0 ],
 					"text" : "analyzer~ 2048 512 4096 blackman70 0 3 10 3 list"
 				}
 
@@ -2593,7 +2593,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1310.0, 510.0, 167.0, 17.0 ],
+					"patching_rect" : [ 1310.0, 510.0, 167.0, 18.0 ],
 					"text" : "Sinusoidal components (freq, amp)"
 				}
 
@@ -2608,7 +2608,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1187.0, 361.0, 74.0, 27.0 ],
+					"patching_rect" : [ 1187.0, 361.0, 74.0, 29.0 ],
 					"text" : "Raw MIDI pitch and amplitude"
 				}
 
@@ -2622,7 +2622,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1364.0, 402.0, 51.0, 17.0 ],
+					"patching_rect" : [ 1364.0, 402.0, 53.0, 18.0 ],
 					"text" : "up to 100"
 				}
 
@@ -2794,6 +2794,15 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-211", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-105", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-233", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-105", 0 ]
@@ -3539,57 +3548,53 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "inputselector.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/max project/Anal~/patchers",
+				"bootpath" : "/Volumes/Disque Dur/Anal-master/max project/Anal~/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "tof.strippath.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/max project/Anal~/patchers",
+				"bootpath" : "/Volumes/Disque Dur/Anal-master/max project/Anal~/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "outputselector~.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/max project/Anal~/patchers",
+				"bootpath" : "/Volumes/Disque Dur/Anal-master/max project/Anal~/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "z.scale.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/max project/Anal~/patchers",
+				"bootpath" : "/Volumes/Disque Dur/Anal-master/max project/Anal~/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "noteprocess.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/max project/Anal~/patchers",
+				"bootpath" : "/Volumes/Disque Dur/Anal-master/max project/Anal~/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "invhermite.maxpat",
-				"bootpath" : "/Users/thoma_000/Documents/projects/Anal/max project/Anal~/patchers",
+				"bootpath" : "/Volumes/Disque Dur/Anal-master/max project/Anal~/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "segment~.mxe",
-				"type" : "iLaF"
+				"name" : "segment~.mxo",
+				"type" : "iLaX"
 			}
 , 			{
-				"name" : "analyzer~.mxe",
-				"type" : "iLaF"
-			}
-, 			{
-				"name" : "jit.pass.mxe",
-				"type" : "iLaF"
+				"name" : "analyzer~.mxo",
+				"type" : "iLaX"
 			}
  ]
 	}

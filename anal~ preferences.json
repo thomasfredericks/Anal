@@ -1,0 +1,26 @@
+{
+	"pattrstorage" : 	{
+		"name" : "anal~ preferences",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"threshLevel" : [ 8.285424 ],
+					"normalizeFFT" : [ 0 ],
+					"enableNote" : [ 1 ],
+					"enableNote2" : [ 1 ],
+					"enableFFT" : [ 1 ],
+					"enableThresh" : [ 1 ],
+					"enableLevel" : [ 1 ],
+					"enableNoisiness" : [ 1 ],
+					"enableBrightness" : [ 1 ],
+					"outputselector~::outGain" : [ -70.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

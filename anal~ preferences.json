@@ -8,7 +8,6 @@
 					"threshLevel" : [ 8.285424 ],
 					"normalizeFFT" : [ 0 ],
 					"enableNote" : [ 1 ],
-					"enableNote2" : [ 1 ],
 					"enableFFT" : [ 1 ],
 					"enableThresh" : [ 1 ],
 					"enableLevel" : [ 1 ],
